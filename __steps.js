@@ -20,5 +20,14 @@
  * 
  * 1. node men install
  * 
+ * -------
+ * get data
+ * 1. cors install
+ * 2. express.json
  * 
+ * 2.
+ * 
+ * ---------
+ * post data
+ * 1 . 
  * **/
